@@ -1,0 +1,24 @@
+{
+  "facts": [
+    {
+      "id": 1,
+      "title": "You Are Not Behind",
+      "text": "Everyone moves at their own pace. While it may feel like others are ahead, your path is unfolding exactly as it should. Focus on your growth, not someone else's timeline."
+    },
+    {
+      "id": 2,
+      "title": "Small Steps Matter",
+      "text": "Big achievements are built from tiny, consistent actions. Even when progress feels slow, every step you take is bringing you closer to something meaningful. Over time, those small efforts turn into real results you can be proud of."
+    },
+    {
+      "id": 3,
+      "title": "Discipline Over Motivation",
+      "text": "Motivation comes and goes, but discipline stays. The days you don’t feel like doing anything are the ones that define your future the most."
+    },
+    {
+      "id": 4,
+      "title": "Your Future Is Built Today",
+      "text": "What you do today shapes who you become tomorrow. Even a single focused hour can change the direction of your life. The habits you build now will quietly create the future you dream about."
+    }
+  ]
+}
