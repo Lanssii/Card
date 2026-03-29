@@ -1,9 +1,8 @@
 export default function card(props) {
   return (
     <div
-      className={`bg-[#CBDCEB] relative rounded-3xl rounded-br-3xl pt-6 pr-10 pb-12 pl-6 h-[250px] ${
-        props.number % 2 === 0 ? "w-[500px]" : "w-[350px]"
-      }`}
+      className={`bg-[#CBDCEB] relative rounded-3xl rounded-br-3xl pt-6 pr-10 pb-12 pl-6 h-[250px] w-full
+      lg:${props.number % 2 === 0 ? "w-[500px]" : "w-[350px]"}`}
     >
       <h1 className="text-black-900 font-bold text-xl mb-4">{props.title}</h1>
       <p>{props.text}</p>

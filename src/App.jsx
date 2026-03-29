@@ -13,8 +13,8 @@ function App() {
   }, []);
 
   return (
-    <div className="w-full h-screen flex items-center justify-center bg-[#6D94C5]">
-      <div className="w-full max-w-5xl flex flex-wrap justify-center items-stretch gap-6 p-4">
+    <div className="w-full min-h-screen flex items-center justify-center bg-[#6D94C5]">
+      <div className="w-full max-w-5xl grid grid-cols-1 lg:grid-cols-2 gap-6 p-4 justify-items-center">
         {facts.map((fact, index) => (
           <Card
             key={fact.id}
