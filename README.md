@@ -58,13 +58,13 @@ project-root/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Lanssii/Card.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd your-repo-name
+cd card
 ```
 
 3. Install dependencies:
